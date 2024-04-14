@@ -9,7 +9,7 @@
 
 ## Additional notes
 - Modules __excel_operations__ and __utils__ were designed the way which my colleagues could also use them;
-- Modules __1C__ and __workflow__ contains a set with some functionality for my personal tasks;
+- Modules __some_system__ and __workflow__ contains a set with some functionality for my personal tasks;
 - Module __setting__ was designed to hide all sensitive code underneath (using config files which are not represented here).
 
 
