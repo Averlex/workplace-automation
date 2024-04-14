@@ -16,10 +16,10 @@
 ## TODO
 - [x] Additional docstrings
 - [x] Settings module updates
-- [ ] Tests
-- [ ] Documentation
-- [ ] GUI?
 - [x] Common excel operations (reading, writing, merging, advanced vertical lookup, etc.)
 - [x] Basic regular-basis functionality
 - [x] Pivots based on parsing and processing results
 - [x] Additional parsing functionality for my colleagues
+- [ ] Tests
+- [ ] Documentation
+- [ ] GUI?
